@@ -1,0 +1,6 @@
+Tasks:
+- loading data
+- visualization
+- K-means algorithm from scratch
+- testing
+-  Solve same problem by K-means algorithm using python library and test given pairs

@@ -1,0 +1,10 @@
+Tasks
+
+-loading data
+-visualization
+-sigmoid function
+-cost function
+- gradient descent implementation from scratch
+- testing
+- Solve same problem by Logistic Regression with
+regularization using library and test.

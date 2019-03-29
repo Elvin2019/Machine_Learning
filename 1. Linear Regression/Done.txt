@@ -1,0 +1,10 @@
+Tasks: 
+- loading data +
+- visualization + 
+- cost function +
+- gradient descent implementation (from scratch) + 
+- testing + 
+
+- Solve linear regression by Normal equation  + 
+- Instead of linear function use polynomial which over
+performed linear hypothesis accuracy  + 
